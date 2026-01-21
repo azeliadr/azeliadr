@@ -1,7 +1,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-azeliadr-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/azeliadr/)   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/azeliadr/)   [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Azelia-Dwi-Rahmawati)  [![gem](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azelia-dwi-rahmawati)
 
 ## Hi, Everyone! 👋 
-I am a Master's Student at Forest Management Science, IPB University. A highly agile and adaptable learner who continuously strives for excellence in facing new challenges, I am an independent individual who generates and supports leadership ideas and experiences in research development, scientific writing, and project management. Apart from that, Azelia also had professional experience in the workplace and organization at the beginning of her career in her 20s, which developed her as a persistent person.
+I am a PhD's Student in Mie University, Japan. I am an independent individual who generates and supports leadership ideas and experiences in research development, scientific writing, and project management.
 
 ### Publication
 * Asy’Ari R, Rahmawati AD, Sa’diyya N, Gustawan AW, Setiawan Y, Zamani NP, Pramulya R. 2022. Mapping mangrove forest distribution on the Banten, Jakarta, and West Java ecotone zone from Sentinel-2-derivied indices using cloud computing based random forest. _Journal of Natural Resources and Environment Management._ 12(1): 97-111. http://dx.doi.org/10.29244/jpsl.12.1.97-111 
